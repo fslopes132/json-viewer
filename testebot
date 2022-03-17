@@ -1,0 +1,48 @@
+"description": Ola, meu nome é Cem, sou sua Assistente virtual da UNEMAT Seja Bem Vindo!,
+"language":"e-",
+"shortDescription":"",
+"examples": "",
+"linkTooDocs": "",
+"disableInteractionLogs": false,
+"disableSstackdriverlogs": true,
+"googleAssistant": {
+
+"googleAssistantCompatible":false,
+"Project": "lilybot-9f39d",
+"welcomeInternetSignInRequired": false,
+"startIntents": [],
+"systemIntents": [],
+"endIntentds":[],
+"oAuthlinking": {
+ 
+"equired": false,
+"providerId": "",
+"scopes": "",
+"privacyPolicyUrl": "",
+"grantType": "AUTH_CODE_GRANT"
+},
+
+{
+"id": "d1b9e20f-174ª-4c24-8382-4da1cb07165b",
+"name": "saudações"
+"isOverridable": true,
+"isEnum": false,
+"automatedExpansion": true
+}
+
+{
+"id": "ab001986-201a-4659-9adc-66f400f98c40",
+"name": "Matriculas"
+"isOverridable": true,
+"isEnum": false,
+"automatedExpansion": true
+}
+
+{
+"id": "552c5771-ae45-4df2-8cf4-40051238273a",
+"name": "Horarios"
+"isOverridable": true,
+"isEnum": false,
+"automatedExpansion": true
+}
+
